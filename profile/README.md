@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/odd-io/.github/assets/47630370/d9aee2e3-7e55-4feb-9433-609d96d927ed">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/odd-io/.github/assets/47630370/55cb29af-3939-4549-815f-66ad21078d9f">
-    <img alt="The odd.io logo." src="https://github.com/odd-io/.github/assets/47630370/55cb29af-3939-4549-815f-66ad21078d9f" height="100">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/odd-io/.github/assets/47630370/6eced05a-4916-4523-9cbd-6f2338074b58">
+    <img alt="The odd.io logo" src="https://github.com/odd-io/.github/assets/47630370/55cb29af-3939-4549-815f-66ad21078d9f" height="100">
   </picture>
 </p>
 
@@ -14,5 +14,5 @@
 
 <br>
 
- **Contact**: 🌐[odd.io](https://www.odd.io/) | 📸[@odd.io](https://www.instagram.com/startup.odd.io/) | 📨[contact@odd.io](https://www.odd.io/careers/)
+ **Contact**: 🌐[odd.io](https://www.odd.io/) | 📸[@odd.io](https://www.instagram.com/startup.odd.io/) | 📨[contact@odd.io](mailto:contact@odd.io)
  
