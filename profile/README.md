@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-👋 **Welcome** to odd.io's GitHub space! We're a small, privately-funded startup developing *omnis*.
+👋 **Welcome** to odd.io's GitHub space! We're a small, privately funded startup developing OMNIS.
 
 🚀 **Careers**: We’re seeking talented people who are excited about new technology, eager to learn, and ready to contribute to our mission. If you enjoy sharing ideas and working with a young, dynamic team, we’d love to connect with you! See more at our [careers page](https://www.odd.io/careers/) or send a mail to [careers@odd.io](mailto:careers@odd.io).
 
